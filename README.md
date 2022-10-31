@@ -1,3 +1,3 @@
-# Treinando-POO-
+# Treinando-POO
 Pequenas atividades feita na linguagem Java
           
