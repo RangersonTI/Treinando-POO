@@ -1,2 +1,2 @@
-Treinando-POO <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
-Pequenas atividades feita na linguagem Java      
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80" width="80"/> Treinando-POO 
+Pequenas atividades feita na linguagem Java 
