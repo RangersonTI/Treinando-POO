@@ -4,11 +4,11 @@ Calcule e mostre:
 
  a) a média aritmética das duas notas de cada aluno;
  <div>b) a mensagem que está na tabela a seguir:
- <div>MÉDIA ARITMÉTICA MENSANGEM
+ <div>MÉDIA ARITMÉTICA MENSANGEM<div>
  <div>
  <div>Até 3 		        |  Reprovado
  <div>Entre 3 e 6 	   |  Prova final
- <div>De 7 para cima  |  Aprovado
+ <div>De 7 para cima  |  Aprovado<div>
 <div>
 <div>
 
