@@ -1,17 +1,18 @@
 
-Faça um algoritmo em Java que receba duas notas de seis alunos.
+FaÃ§a um algoritmo em Java que receba duas notas de seis alunos.
 Calcule e mostre:
 
- a) a média aritmética das duas notas de cada aluno;
- b) a mensagem que está na tabela a seguir:
- MÉDIA ARITMÉTICA MENSANGEM
+ a) a mÃ©dia aritmÃ©tica das duas notas de cada aluno;
+ b) a mensagem que estÃ¡ na tabela a seguir:
+ MÃ‰DIA ARITMÃ‰TICA MENSANGEM
 __________________________________
- Até 3 		|  Reprovado
- Entre 3 e 6 	|  Prova final
- De 7 para cima |  Aprovado
+ AtÃ© 3 		|  Reprovado
+ <div>Entre 3 e 6 	|  Prova final
+ <div>De 7 para cima |  Aprovado
 __________________________________
+<div>
 
  c) o total de alunos aprovados;
  d) o total de alunos de exame;
  e) o total de alunos reprovados;
- f) a média da turma.
+ f) a mÃ©dia da turma.
